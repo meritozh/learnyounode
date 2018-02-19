@@ -1,0 +1,14 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "learn you node lessons",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bl": "^0.8.31",
+    "@types/node": "^9.4.6"
+  },
+  "dependencies": {
+    "bl": "^1.2.1"
+  }
+}
